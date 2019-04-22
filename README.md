@@ -3,7 +3,7 @@ Swingサンプル
 
 <B>ソースコード</B>
 
-https://github.com/Rairye/RairyeSwingSample/blob/master/ScreenShots/RenewalNotification.jpg?raw=true
+https://github.com/Rairye/RairyeSwingSample/tree/master/SourceCode
 
 <B>スクリーンショット</B>
 
